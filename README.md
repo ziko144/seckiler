@@ -1,0 +1,2 @@
+# seckiler
+Global page
